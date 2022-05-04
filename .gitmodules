@@ -1,0 +1,3 @@
+[submodule "saddle-frontend"]
+	path = saddle-frontend
+	url = https://github.com/saddle-finance/saddle-frontend
